@@ -11,4 +11,6 @@ Project made to study game development with Java via the libGDX framework.
 Everything here was made using the following tutorial:
 - https://colourtann.github.io/HelloLibgdx/
 
+## Code
 
+code stored in the /core/src/main/java/kdrems/gameone directory
